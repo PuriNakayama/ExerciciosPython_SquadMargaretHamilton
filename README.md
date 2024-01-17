@@ -8,9 +8,9 @@
 #### Exercicio 2 - (done by Priscila)
 #### Exercicio 3 - (done by Priscila)
 #### Exercicio 4 - (done by Priscila)
-#### Exercicio 5 - 
-#### Exercicio 6 - 
+#### Exercicio 5 - (done by Priscila)
+#### Exercicio 6 - (done by Priscila)
 #### Exercicio 7 - (done by Priscila)
 #### Exercicio 8 - (done by Priscila)
 #### Exercicio 9 - (done by Priscila) 
-#### Exercicio 10  -
+#### Exercicio 10 - (done by Priscila) 
