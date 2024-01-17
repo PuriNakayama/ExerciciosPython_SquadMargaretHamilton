@@ -7,7 +7,7 @@
 #### Exercicio 1 - (done by Priscila)
 #### Exercicio 2 - (done by Priscila)
 #### Exercicio 3 - (done by Priscila)
-#### Exercicio 4 - 
+#### Exercicio 4 - (done by Priscila)
 #### Exercicio 5 - 
 #### Exercicio 6 - 
 #### Exercicio 7 - 
