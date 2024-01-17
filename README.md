@@ -2,7 +2,7 @@
 
 [Priscila Nakayama](https://github.com/PuriNakayama)
 
-### Priscila criou o repositorio para que todas as integrantes possam colaborar forkando o repositorio e assim solucionando os exercicios.
+### Priscila criou o repositorio para que todas as integrantes possam colaborar com o repositorio e assim solucionando os exercicios.
 
 #### Exercicio 1 - (done by Priscila)
 #### Exercicio 2 - (done by Priscila)
