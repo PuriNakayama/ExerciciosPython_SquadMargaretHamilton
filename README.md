@@ -11,6 +11,6 @@
 #### Exercicio 5 - 
 #### Exercicio 6 - 
 #### Exercicio 7 - (done by Priscila)
-#### Exercicio 8 - 
-#### Exercicio 9 -
+#### Exercicio 8 - (done by Priscila)
+#### Exercicio 9 - (done by Priscila) 
 #### Exercicio 10  -
