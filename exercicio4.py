@@ -9,4 +9,5 @@ combustivel_consumido = float(input('Informe a quantidade de litros de combustí
 
 consumo_medio = calc_consumo_medio(distancia_km, combustivel_consumido)
 
+#retorna o consumo medio
 print(f'O consumo médio em km/l é: {consumo_medio} litros')
