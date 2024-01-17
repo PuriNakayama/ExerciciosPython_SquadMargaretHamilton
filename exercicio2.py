@@ -13,5 +13,6 @@ if datetime.now().month < mes_nascimento:
     meses_atual = (datetime.now().month + 12) - mes_nascimento
 else:
     meses_atual = datetime.now().month - mes_nascimento
-    
+
+#Resultado a idade atual e meses
 print( f'A idade atual é: ', idade_atual, 'anos e', meses_atual, 'meses')
