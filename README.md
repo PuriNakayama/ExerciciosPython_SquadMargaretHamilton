@@ -10,7 +10,7 @@
 #### Exercicio 4 - (done by Priscila)
 #### Exercicio 5 - 
 #### Exercicio 6 - 
-#### Exercicio 7 - 
+#### Exercicio 7 - (done by Priscila)
 #### Exercicio 8 - 
 #### Exercicio 9 -
 #### Exercicio 10  -
