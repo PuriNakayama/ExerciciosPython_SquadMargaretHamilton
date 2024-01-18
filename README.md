@@ -36,7 +36,3 @@
 #### Exercicio 4 - (done by Priscila)
 #### Exercicio 5 - (done by Priscila)
 #### Exercicio 6 - (done by Priscila)
-#### Exercicio 7 - (done by Priscila)
-#### Exercicio 8 - (done by Priscila)
-#### Exercicio 9 - (done by Priscila) 
-#### Exercicio 10 - (done by Priscila) 
