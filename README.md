@@ -1,38 +1,9 @@
-# Nome das integrantes da Squad Margaret Hamilton
+# Repositorio para a resolucao das listas de exercicios do curso Python 
 
-[Priscila Nakayama](https://github.com/PuriNakayama)
+## Lista 1 (done)
 
-### Priscila criou o repositorio para que todas as integrantes possam colaborar com o repositorio e assim solucionando os exercicios.
+## Lista 2 (done)
 
-### Modulo 1
-#### Exercicio 1 - (done by Priscila)
-#### Exercicio 2 - (done by Priscila)
-#### Exercicio 3 - (done by Priscila)
-#### Exercicio 4 - (done by Priscila)
-#### Exercicio 5 - (done by Priscila)
-#### Exercicio 6 - (done by Priscila)
-#### Exercicio 7 - (done by Priscila)
-#### Exercicio 8 - (done by Priscila)
-#### Exercicio 9 - (done by Priscila) 
-#### Exercicio 10 - (done by Priscila) 
+## Lista 3 
 
-
-## Modulo 2 
-#### Exercicio 1 - (done by Priscila)
-#### Exercicio 2 - (done by Priscila)
-#### Exercicio 3 - (done by Priscila)
-#### Exercicio 4 - (done by Priscila)
-#### Exercicio 5 - (done by Priscila)
-#### Exercicio 6 - (done by Priscila)
-#### Exercicio 7 - (done by Priscila)
-#### Exercicio 8 - (done by Priscila)
-#### Exercicio 9 - (done by Priscila) 
-#### Exercicio 10 - (done by Priscila) 
-
-## Modulo 3
-#### Exercicio 1 - (done by Priscila)
-#### Exercicio 2 - (done by Priscila)
-#### Exercicio 3 - (done by Priscila)
-#### Exercicio 4 - (done by Priscila)
-#### Exercicio 5 - (done by Priscila)
-#### Exercicio 6 - (done by Priscila)
+## Lista 4

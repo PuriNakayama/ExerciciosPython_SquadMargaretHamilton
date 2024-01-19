@@ -14,6 +14,6 @@ def calcular_sal_liquido(sal_bruto):
     return sal_liquido
 
 #usuario informa o salario bruto
-sal_bruto = float(input('Informe o salário bruto: '))
+sal_bruto = float(input('Informe o salario bruto: '))
 sal_liquido = calcular_sal_liquido(sal_bruto)
-print( f'O salário líquido é:{sal_liquido:,.2f} ') 
+print( f'O salario liquido é:{sal_liquido:,.2f} ') 

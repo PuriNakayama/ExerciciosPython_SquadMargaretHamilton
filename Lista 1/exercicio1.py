@@ -25,7 +25,7 @@ number2 = float(input('Digite o segundo numero: '))
 
 while True: #condicao, enquanto o usuario digitar um numero, o codigo roda
     menu()
-    opcao = int(input('Escolha apenas uma opção de 1 a 4 (ou 0 para sair): ')) #condicao para sair do codigo
+    opcao = int(input('Escolha apenas uma opcao de 1 a 4 (ou 0 para sair): ')) #condicao para sair do codigo
     if opcao == 0: #se o usuario digitar 0, encerra o codigo
         break
     elif opcao == 1: #senao continua rodando

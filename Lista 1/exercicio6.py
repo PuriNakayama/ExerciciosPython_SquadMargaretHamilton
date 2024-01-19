@@ -1,5 +1,5 @@
 # usuario informa a distância da viagem
-distancia = float(input('Digite a distância da viagem em km: '))
+distancia = float(input('Digite a distancia da viagem em km: '))
 
 # Tempo de viagem em cada meio de transporte
 tempo_aviao = distancia / 600

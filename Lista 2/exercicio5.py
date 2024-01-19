@@ -8,14 +8,14 @@ def classificacao_triangulo():
     if (a + b > c) and (a + c > b) and (b + c > a):
         #verifica se os lados são iguais
         if a == b == c:
-            print('O triângulo é equilátero.')
+            print('O triângulo é equilatero.')
         #verifica se dois lados são iguais
         elif a == b or a == c or b == c:
-            print('O triângulo é isósceles.')
+            print('O triângulo é isosceles.')
         # se nenhum dos lados forem iguais
         else:
-            print('O triângulo é escaleno.')
+            print('O triangulo é escaleno.')
     else:
-        print('Os valores inseridos não formam um triângulo.')
+        print('Os valores inseridos não formam um triangulo.')
 
 classificacao_triangulo()
