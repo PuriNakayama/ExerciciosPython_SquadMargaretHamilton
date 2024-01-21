@@ -4,6 +4,6 @@
 
 ## Lista 2 (done)
 
-## Lista 3 
+## Lista 3 (done)
 
 ## Lista 4
